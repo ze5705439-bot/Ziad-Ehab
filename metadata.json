@@ -1,0 +1,6 @@
+{
+  "name": "استوديو فوكس الصوتي | VoxStudio TTS Console",
+  "description": "منصة احترافية متكاملة لتوليد الصوت البشري فائق الدقة، وتوجيه السيناريو والحوارات الدرامية بالذكاء الاصطناعي مع دعم كامل للغة العربية والإنجليزية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
